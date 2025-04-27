@@ -1,0 +1,29 @@
+# Archivos específicos de PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+misc.xml
+modules.xml
+Project_Default.xml
+PyCharmMiscProject.iml
+vcs.xml
+
+# Archivos específicos del entorno virtual
+env/
+venv/
+*.egg-info/
+*.egg/
+__pycache__/
+
+# Archivos de configuración del entorno
+*.log
+*.bak
+*.swp
+
+# Archivos específicos de Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
